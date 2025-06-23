@@ -1,0 +1,13 @@
+import React from 'react';
+import styles from '../styles/App.module.css';
+
+const Settings = ({ toggleTheme }) => {
+  return (
+    <div className={styles.settings}>
+      <h1>Settings</h1>
+      <button onClick={toggleTheme}>Toggle Theme</button>
+    </div>
+  );
+};
+
+export default Settings;
