@@ -1,0 +1,18 @@
+src/
+├── components/
+│   ├── TodoList.jsx
+│   ├── TodoItem.jsx
+│   ├── AddTodo.jsx
+│   ├── Footer.jsx
+│   ├── Navbar.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── CompletedTasks.jsx
+│   ├── Categories.jsx
+│   ├── Settings.jsx
+├── App.js
+├── index.js
+├── styles/
+│   ├── App.module.css
+│   ├── TodoList.module.css
+│   ├── Navbar.module.css
